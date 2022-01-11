@@ -1,0 +1,13 @@
+body   {
+    background: silver;
+}
+html, body {
+    scroll-behavior: smooth;
+}
+h2  {
+    color: red;
+    text-align: center;
+}
+img {
+    width: 300px;
+}
