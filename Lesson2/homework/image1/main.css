@@ -1,0 +1,60 @@
+body {
+    background: #e4e4e4;
+}
+.target {
+    background: #ffaa00;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+p {
+    text-align: center;
+    padding-top: 41.2px;
+
+}
+.classA {
+    box-shadow: 10px 10px 0 0 #464646  ;
+    border-bottom : solid 1px #636b73;
+    border-right : solid 1px #636b73;
+    border-top : solid 1px #ba8e44;
+    border-left : solid 1px #ba8e44;
+}
+.classB {
+    box-shadow: 10px 10px 3px 0 #464646  ;
+    border-bottom : solid 1px #636b73;
+    border-left : solid 1px #636b73;
+    border-top : solid 1px #ba8e44;
+    border-right : solid 1px #ba8e44;
+}
+.classC {
+    box-shadow: 10px 10px 3px 3px #464646  ;
+    border-bottom : solid 1px #636b73;
+    border-right : solid 1px #636b73;
+    border-top : solid 1px #ba8e44;
+    border-left : solid 1px #ba8e44;
+}
+.classD {
+    box-shadow: 10px 10px 3px 3px #9e9e9e  ;
+    border-bottom : solid 1px #636b73;
+    border-right : solid 1px #636b73;
+    border-top : solid 1px #ba8e44;
+    border-left : solid 1px #ba8e44;
+}
+.classE {
+    box-shadow: 10px 10px 3px 0 #464646  ;
+    border-radius: 5px;
+    border-bottom : solid 1px #636b73;
+    border-left : solid 1px #636b73;
+    border-top : solid 1px #ba8e44;
+    border-right : solid 1px #ba8e44;
+}
+.classF {
+    box-shadow: 10px 10px 3px 0 #9e9e9e  ;
+    border-radius: 5px;
+    border-bottom : solid 1px #636b73;
+    border-right : solid 1px #636b73;
+    border-top : solid 1px #ba8e44;
+    border-left : solid 1px #ba8e44;
+}
