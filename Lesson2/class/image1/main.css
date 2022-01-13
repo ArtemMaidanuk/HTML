@@ -1,0 +1,27 @@
+body {
+    background:#252525 ;
+}
+div {
+    width: 200px;
+    height: 50px;
+    border-radius: 40px;
+    text-align: center;
+    margin: 10px auto ;
+}
+.p1 {
+    border: 5px solid #ff6e1d ;
+    color: #ff6e1d ;
+    margin-top: 200px;
+}
+.p2 {
+    border: 5px solid #2cfff2;
+    color:#2cfff2 ;
+}
+.p3 {
+    border: 5px solid #ff54a6;
+    color: #ff54a6;
+}
+.p4 {
+     border: 5px solid #ff3e3e;
+   color:  #ff3e3e;
+ }
