@@ -1,0 +1,43 @@
+
+#container {
+    background: #06bcd4;
+    width: 700px;
+    margin: 0 auto;
+
+
+}
+.im {
+    height: 90px;
+    display: flex;
+    justify-content: space-around;
+}
+.im2 {
+    background: white;
+    width: 310px;
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+.im3 {
+    height: 90px;
+    width: 90px;
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.im4 h2 {
+    margin: 0;
+    color: #ff7a00;
+    font-size: 18px;
+}
+.im4 p {
+    font-size: 14px;
+    margin: 0;
+}
+.im4 {
+    margin-right: 5px;
+}

@@ -1,0 +1,37 @@
+#container {
+    background: #f3e4e4;
+    width: 800px;
+
+}
+#header {
+    background: #8ac469;
+    height: 100px;
+
+}
+.main {
+   display: flex;
+    margin: 10px 0;
+
+}
+#menu {
+    background: silver;
+    height: 610px;
+    width: 200px;
+    margin-right: 10px;
+
+}
+.post {
+    background: #50c5be;
+    height: 300px;
+    width: 600px;
+}
+.post:first-child {
+    margin-bottom: 10px;
+}
+
+#footer {
+    background: red;
+    height: 100px;
+    margin-top: 10px;
+
+}

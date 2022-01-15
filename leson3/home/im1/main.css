@@ -1,0 +1,29 @@
+#container {
+    background: #f6f6f6;
+    width: 1200px;
+    margin: auto;
+
+}
+.target-one {
+    height: 200px;
+    background: red ;
+}
+.target-two {
+    display: flex;
+    margin-top: 10px;
+
+
+}
+.target-three {
+    width: 850px;
+    height: 600px;
+    background: cornflowerblue;
+    margin-right: 5px;
+}
+.target-four {
+    width: 350px;
+    height: 600px;
+    background: yellow;
+    margin-left: 5px;
+
+}
