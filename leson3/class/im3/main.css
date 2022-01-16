@@ -1,0 +1,40 @@
+#container {
+    background: white;
+    width: 1200px;
+    margin: auto;
+    border-radius: 15px;
+    border: 2px solid black;
+    padding: 10px;
+
+
+}
+.target-one {
+    height: 200px;
+    background: #d9d9d9 ;
+}
+.target-two {
+    display: flex;
+    margin-top: 10px;
+}
+.target-three {
+    width: 890px;
+    height: 200px;
+    background: #d9d9d9;
+}
+.target-four {
+    width: 350px;
+    height: 500px;
+    background: #d9d9d9;
+    margin-left: 10px;
+}
+.target-five {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.target-six {
+    width: 290px;
+    height: 290px;
+    background: #d9d9d9;
+
+}

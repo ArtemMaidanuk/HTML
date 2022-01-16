@@ -1,0 +1,30 @@
+#container {
+    margin: auto;
+    width: 600px;
+}
+.a1 {
+    background: #6395ec;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.a2 {
+    display: flex;
+    justify-content: space-between;
+}
+.a3 {
+    width: 180px;
+    height: 200px;
+    background: #1048ad;
+    margin-top: 20px;
+}
+.a5 {
+    display: flex;
+    justify-content: space-between;
+}
+.a4 {
+    background: #6395ec;
+    height: 400px;
+    width: 280px;
+    margin-top: 20px;
+}
