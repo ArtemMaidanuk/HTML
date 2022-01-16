@@ -1,0 +1,46 @@
+#container {
+    width: 910px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.a {
+    height: 300px;
+    width: 260px;
+    border: 2px solid black;
+}
+h1 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: relative;
+    top:60px;
+    margin-left: 85px;
+    background: white;
+}
+.zagal  i {
+    padding-top: 30px;
+    color: #ff6e1d;
+}
+h3 {
+    font-size: 18px;
+    border: 2px solid black;
+    width: 120px;
+    height: 30px;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+h2 {
+    padding-top: 40px;
+}
+p {
+    padding-top: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 2;
+}
