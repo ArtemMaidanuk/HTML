@@ -1,0 +1,98 @@
+body {
+    background: #B4CAD6;
+
+}
+#container {
+    width: 910px;
+    background: #FFFFFF;
+    margin: 0 auto;
+}
+.solid {
+    border: 3px solid  #231F20
+}
+.m0 {
+    margin: 0;
+}
+.w130 {
+    width: 130px;
+    height: 50px;
+}
+.h90 {
+    width: 170px;
+    height: 90px;
+    box-sizing: border-box;
+
+}
+.p10 {
+    padding: 10px;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+.flex2 {
+    display: flex;
+    justify-content: space-around;
+    margin-left: -5px;
+    margin-right: -3px;
+    margin-bottom: -3px;
+}
+.a1 {
+    background: #E7E7E8;
+}
+.w150{
+    width: 160px;
+}
+.m10 {
+    margin: 10px;
+}
+.a2 {
+    width: 700px;
+    height: 350px;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+.w750 {
+    width: 750px;
+}
+.a4 {
+    width: 600px;
+    margin-left: -2px;
+    margin-bottom: -3px;
+}
+.a5 {
+    width: 280px;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.a6 {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    margin-top: 25px;
+}
+.a7 {
+    width: 150px;
+    height: 30px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.solid2 {
+    border-right: 3px solid  #231F20;
+}
+.solid3 {
+    border-left: 3px solid  #231F20;
+}
+.a8 {
+    width: 700px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.solid4 {
+    border-top: 3px solid  #231F20;
+}
+
