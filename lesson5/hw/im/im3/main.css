@@ -1,0 +1,79 @@
+#container {
+    background: white;
+    width: 1200px;
+    margin: auto;
+    border-radius: 15px;
+    border: 2px solid black;
+    padding: 10px;
+}
+.target-one {
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.target-two {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.target-four {
+    width: 340px;
+    height: 530px;
+    margin-right: 10px;
+}
+.target-five {
+    display: flex;
+    justify-content: space-between;
+
+}
+.target-six {
+    width: 270px;
+    height: 260px;
+    margin-left: 10px;
+}
+.bg-silver {
+    background: #d9d9d9;
+}
+.m-t {
+    margin-top: 10px;
+}
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    #container {
+        width: 520px;
+        border-radius: 50px;
+
+    }
+    .target-one {
+        width: 500px;
+        height: 100px;
+        border-radius: 40px;
+        margin: 0 auto;
+    }
+    .target-two {
+        display: flex;
+        flex-direction:column ;
+    }
+    .target-three {
+        width: 500px;
+        height: 200px;
+        border-radius: 40px;
+        margin: 0 auto;
+    }
+    .target-five {
+        display: flex;
+        justify-content: space-between;
+        margin: 20px;
+    }
+    .target-six {
+        width: 120px;
+        height: 120px;
+        border-radius: 40px
+    }
+    .target-four {
+        height: 250px;
+        width: 500px;
+        border-radius: 40px;
+        margin-left: 10px;
+    }
+
+}
