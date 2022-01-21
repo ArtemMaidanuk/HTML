@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    background-color: #B4CAD6;
+}
+
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.border {
+    border: 3px solid black;
+}
+
+.flex {
+    display: flex;
+}
+
+.header {
+    min-height: 110px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.header-block {
+    min-height: 50px;
+    width: 19%;
+}
+
+.aside-block {
+    min-height: 50px;
+    width: 80%;
+}
+
+.header-block, .aside-block, .block, .block-one,
+.block-two, .block-tree,
+.block-three, .block-four, .block-six {
+    background-color: #E7E7E8;
+}
+
+.bg-silver {
+    background-color: #E7E7E8;
+}
+
+.aside {
+    width: 24%;
+}
+
+.aside-block {
+    margin: 15px auto 0 auto;
+}
+
+.content {
+    width: 76%;
+}
+
+.p20 {
+    padding: 20px;
+}
+
+.block {
+    margin: 0 auto;
+    min-height: 380px;
+}
+
+.container-four, .wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block-one {
+    width: 22%;
+    min-height: 90px;
+}
+
+.container-five {
+    width: 72%;
+
+}
+
+.container-six {
+    width: 28%;
+}
+
+.wrap, .block-six {
+    margin-bottom: 20px;
+}
+
+.block-two {
+    width: 47%;
+    min-height: 115px;
+}
+
+.block-tree {
+    width: 20%;
+    min-height: 25px;
+    margin: 0 auto;
+}
+
+.block-six {
+    min-height: 70px;
+}
+
+.block-three {
+    height: 35px;
+}
+
+.block-four {
+    width: 140px;
+    height: 35px;
+    margin: 20px auto 0 auto;
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .container {
+        width: 800px;
+    }
+}
